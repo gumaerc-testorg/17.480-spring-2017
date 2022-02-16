@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 1d72692a-1f14-1c88-1b89-d298406dae48
 title: Optional Additional Readings
 uid: 02778fdc-58c6-ff2f-9822-3febdfa18cc7
@@ -8,7 +12,7 @@ uid: 02778fdc-58c6-ff2f-9822-3febdfa18cc7
 
 The table below contains optional additional readings for the sessions listed.
 
-\[L\] = Lovell, Bernard. _Echoes of War: The Story of H2S Radar_. CRC Press, 1991. ISBN: 9780852743171. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[L\] = Lovell, Bernard. _Echoes of War: The Story of H{{< sub "2" >}}S Radar_. CRC Press, 1991. ISBN: 9780852743171. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 \[P\] = Prange, Gordon W., with Donald M. Goldstein and Katherine V. Dillon. _At Dawn We Slept: The Untold Story of Pearl Harbor_. 60th anniversary ed. Penguin Books, 1982. ISBN: 9780140157345. \[Preview with [Google Books](https://books.google.com/books?id=V0OWBgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
@@ -124,9 +128,9 @@ Heilenday, Frank W. _The Battle of Britain – Luftwaffe Vs. RAF: Lessons Learne
 
  Jones, F.E. “OBOE – A Precision Ground Controlled Blind Bombing System.” Chapter 23 in _Radar Development to 1945_. Edited by Russell Burns. Inspec/Iee, 1989. ISBN: 9780863411397.
 
-\[L\] Chapter 8: H2S Radar -the Background.
+\[L\] Chapter 8: H{{< sub "2" >}}S Radar -the Background.
 
-\[L\] Chapter 9: The Birth of H2S Radar-1 November 1941. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PA91=onepage#v=onepage&q&f=false)\]
+\[L\] Chapter 9: The Birth of H{{< sub "2" >}}S Radar-1 November 1941. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PA91=onepage#v=onepage&q&f=false)\]
 
 \[L\] Chapter 10: Halifax V9977. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PA99=onepage#v=onepage&q&f=false)\]
 
@@ -136,19 +140,19 @@ Heilenday, Frank W. _The Battle of Britain – Luftwaffe Vs. RAF: Lessons Learne
 
 \[L\] Chapter 21: The Summer of 1943-Destruction of Hamburg.
 
-\[L\] Chapter 22: H2S on 3 Centimeteres (X-band)-the Attacks on Berlin and Leipzig.
+\[L\] Chapter 22: H{{< sub "2" >}}S on 3 Centimeteres (X-band)-the Attacks on Berlin and Leipzig.
 
-\[L\] Chapter 23: H2S and the American 8th Bomber Command.
+\[L\] Chapter 23: H{{< sub "2" >}}S and the American 8th Bomber Command.
 
 \[L\] Chapter 25: Fishpond.
 
 \[L\] Chapter 26: Conflict with Bomber Command.
 
-\[L\] Chapter 27: The New Versions of H2S.
+\[L\] Chapter 27: The New Versions of H{{< sub "2" >}}S.
 
 \[L\] Chapter 28: July 1944.
 
-\[L\] Chapter 29: Naxos and H2S.
+\[L\] Chapter 29: Naxos and H{{< sub "2" >}}S.
 
 Middlebrook, Martin. _The Berlin Raids: R.A.F. Bomber Command Winter 1943_–_44_. Penguin Books, 1990. ISBN: 9780140081466. 
 

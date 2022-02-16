@@ -1,10 +1,13 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1d72692a-1f14-1c88-1b89-d298406dae48
 ---
 
-\[L\] = Lovell, Bernard. _Echoes of War: The Story of H2S Radar_. CRC Press, 1991. ISBN: 9780852743171. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[L\] = Lovell, Bernard. _Echoes of War: The Story of H{{< sub "2" >}}S Radar_. CRC Press, 1991. ISBN: 9780852743171. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 \[P\] = Prange, Gordon W., with Donald M. Goldstein and Katherine V. Dillon. _At Dawn We Slept: The Untold Story of Pearl Harbor_. 60th anniversary ed. Penguin Books, 1982. ISBN: 9780140157345. \[Preview with [Google Books](https://books.google.com/books?id=V0OWBgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
