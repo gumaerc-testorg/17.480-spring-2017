@@ -38,8 +38,6 @@ What is Military Doctrine? 
 
  Rosen, Stephen Peter. “Thinking about Military Innovation.” Chapter 1 in *Winning the Next War: Innovation and the Modern Military*. Cornell University Press, 1994, pp. 1–22. ISBN: 9780801481963. \[Preview with [Google Books](https://books.google.com/books?id=ncLRUf-q-XYC&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-Cote, Jr., Owen R. [“The Politics of Innovative Military Doctrine: The U.S. Navy and Fleet Ballistic Missiles.” (PDF - 26.6MB)](http://edocs.nps.edu/AR/topic/theses/1996/Feb/96Feb_Cote_PhD.pdf) Doctoral Thesis, Massachusetts Institute of Technology, 1996, pp. 6–40.
-
  Greenwood, Ted. “Overview.” Chapter 1 in *Making the MIRV: A Study of Defense Decision Making*. University Press of American, 1988. ISBN: 9780819170774. 
 
 ———. “Innovation.” Chapter 2 in *Making the MIRV: A Study of Defense Decision Making*. University Press of American, 1988, pp. 27–50. ISBN: 9780819170774. 
@@ -258,7 +256,7 @@ Day, Dwayne A. “[Radar Love: The Tortured History of American Space Radar Prog
 
 Kohler, Robert. “One Officer’s Perspective: The Decline of the National Reconnaissance Office.” *Studies in Intelligence* 46, no. 2 (2002).
 
-Fitzgerald, Dennis. “[Commentary on ‘The Decline of the National Reconnaissance Office’](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol46no2/article12.html).” NRO Leadership Replies, April 14, 2007, CIA.gov.
+Fitzgerald, Dennis. [“Commentary on ‘The Decline of the National Reconnaissance Office’.” (PDF)](https://www.cia.gov/static/74f522bf8f33a0375104fdcf49e30c01/Commentary-on-The-Decline.pdf) NRO Leadership Replies, April 14, 2007, CIA.gov.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
