@@ -256,7 +256,7 @@ Day, Dwayne A. “[Radar Love: The Tortured History of American Space Radar Prog
 
 Kohler, Robert. “One Officer’s Perspective: The Decline of the National Reconnaissance Office.” *Studies in Intelligence* 46, no. 2 (2002).
 
-Fitzgerald, Dennis. [“Commentary on ‘The Decline of the National Reconnaissance Office’.” (PDF)](https://www.cia.gov/static/74f522bf8f33a0375104fdcf49e30c01/Commentary-on-The-Decline.pdf) NRO Leadership Replies, April 14, 2007, CIA.gov.
+Fitzgerald, Dennis. [“Commentary on ‘The Decline of the National Reconnaissance Office’.” (PDF)](https://www.cia.gov/resources/csi/static/Commentary-on-The-Decline.pdf) *Studies in Intelligence* 46, no. 2 (2002).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
